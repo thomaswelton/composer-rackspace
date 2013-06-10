@@ -1,0 +1,8 @@
+{
+    "name": "thomaswelton/composer-rackspace",
+    "type": "codeigniter-library",
+    "require": {
+          "composer/installers": "*"
+    	, "rackspace/php-opencloud": "dev-master"
+    }
+}
