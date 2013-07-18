@@ -41,6 +41,6 @@ class CI_Rackspace {
 		$object = $container->DataObject();
 		$object->Create(array('name'=> $name), $file);
 
-		return $object->PublicURL();
+		return $object;
 	}
 }
