@@ -1,5 +1,5 @@
 {
-    "name": "thomaswelton/composer-rackspace",
+    "name": "thomaswelton/codeigniter-rackspace",
     "type": "codeigniter-library",
     "require": {
           "composer/installers": "*"
