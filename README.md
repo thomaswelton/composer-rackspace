@@ -1,5 +1,6 @@
 composer-rackspace
 ==================
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thomaswelton/codeigniter-rackspace/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 Wrapper for the racksapce open cloud API. Installable as a code ingniter libary using CI config files.
 
@@ -11,7 +12,3 @@ $config['APIKEY'] = '';
 $config['CONTAINER'] = '';
 
 ```
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thomaswelton/codeigniter-rackspace/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
