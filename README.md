@@ -11,3 +11,7 @@ $config['APIKEY'] = '';
 $config['CONTAINER'] = '';
 
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thomaswelton/codeigniter-rackspace/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
